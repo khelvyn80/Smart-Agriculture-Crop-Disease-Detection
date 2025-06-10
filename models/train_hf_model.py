@@ -9,6 +9,7 @@ from transformers import (
 	TFAutoModelForImageClassification,
 )
 from tensorflow.keras.optimizers import Adam
+# Hi
 
 # ————————————————
 # 0. Configurable paths and hyperparameters
